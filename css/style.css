@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+}
+.buttons {
+    cursor: pointer;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: burlywood;
+    border-radius: 20px;
+    border: none;
+    transition: 2s;
+}
+.buttons:hover {
+    background-color: rgb(194, 151, 95);
+}
